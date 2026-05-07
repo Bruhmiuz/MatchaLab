@@ -1,0 +1,8 @@
+__pycache__/
+misc/
+*.pyc
+inputs/
+outputs/
+*.txt
+fetch_reports.sh
+.vscode/
