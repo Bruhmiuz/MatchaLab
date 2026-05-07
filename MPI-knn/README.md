@@ -1,1 +1,2 @@
-[Click here to view the report](Report.pdf)
+[![View Report](https://img.shields.io/badge/View-Report-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Report.pdf)
+[![View Code](https://img.shields.io/badge/View-Main_Code-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)](engine.cpp)
